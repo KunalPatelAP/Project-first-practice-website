@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0c83616-dc8e-4c2a-b7cc-60ccee91f178" name="Changes" comment="Creating my first website">
+      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/Style.css" afterDir="false" />
       <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/index.html" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,35 +18,38 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3JJvjYGi1xF6af1BmszjnHnaJE4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/127KPatel/OneDrive - FRHSD/Desktop/first-website",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/127KPatel/OneDrive - FRHSD/Desktop/first-website&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +66,10 @@
       <option name="presentableId" value="Default" />
       <updated>1789392121555</updated>
       <workItem from="1789392122362" duration="1376000" />
+      <workItem from="1789393552624" duration="125000" />
+      <workItem from="1789647963591" duration="2988000" />
+      <workItem from="1790163694796" duration="3252000" />
+      <workItem from="1790253815604" duration="2454000" />
     </task>
     <task id="LOCAL-00001" summary="Creating my first website">
       <option name="closed" value="true" />
@@ -78,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789393480166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating my first website">
+      <option name="closed" value="true" />
+      <created>1789393662288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789393662288</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creating my first website">
+      <option name="closed" value="true" />
+      <created>1789393670741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789393670741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
