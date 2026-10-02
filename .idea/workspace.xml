@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0c83616-dc8e-4c2a-b7cc-60ccee91f178" name="Changes" comment="Creating my first website">
-      <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/index.html" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/first-website/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b0c83616-dc8e-4c2a-b7cc-60ccee91f178" name="Changes" comment="Creating my first website" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <workItem from="1790253815604" duration="2964000" />
       <workItem from="1790685749653" duration="1817000" />
       <workItem from="1790705484263" duration="3367000" />
-      <workItem from="1790776648260" duration="3255000" />
+      <workItem from="1790776648260" duration="3822000" />
     </task>
     <task id="LOCAL-00001" summary="Creating my first website">
       <option name="closed" value="true" />
@@ -131,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790779129672</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creating my first website">
+      <option name="closed" value="true" />
+      <created>1790780464807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1790780464807</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
